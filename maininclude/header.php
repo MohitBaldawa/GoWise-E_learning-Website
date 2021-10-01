@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+  
+  <!-- Here it cotains all the necessary links and scripts -->
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -23,7 +25,7 @@
     <!-- Custom Style CSS -->
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
    
-    <title>Learnerpath</title>
+    <title>GoWise</title>
   </head>
   <body>
      <!-- Start Nagigation -->
