@@ -5,7 +5,7 @@ function checkAdminLogin()
   var adminLogPass = $("#adminLogPass").val();
   $.ajax(
     {
-    url: "admin/admin.php",
+    url: "Admin/admin.php",
     type: "post",
     data: {
       checkLogemail: "checklogmail",
@@ -26,7 +26,7 @@ function checkAdminLogin()
         // Empty Login Fields
         clearAdminLoginField();
         setTimeout(() => {
-          window.location.href = "admin/adminDashboard.php";
+          window.location.href = "Admin/adminDashboard.php";
         }, 1000);
       }
     }
