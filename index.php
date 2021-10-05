@@ -179,7 +179,7 @@
         <div class="row text-center">
           <div class="col-sm">
             <h5>About Us</h5>
-              <p>LearnerPath provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.</p>
+              <p>GoWise provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.</p>
           </div>
           <div class="col-sm">
             <h5>Category</h5>
@@ -191,7 +191,7 @@
           </div>
           <div class="col-sm">
             <h5>Contact Us</h5>
-            <p>LearnerPath Pvt Ltd <br> Near ABC Road II <br> City, State <br> Ph. 000000000 </p>
+            <p>GoWise Pvt Ltd <br> Near ABC Road II <br> City, State <br> Ph. 000000000 </p>
           </div>
         </div>
       </div>
