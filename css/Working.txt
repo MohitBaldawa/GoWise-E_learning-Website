@@ -1,0 +1,5 @@
+Names: Learners Path, Teaching Aid, 
+
+1) Here in CSS bootstrap.min.css file is downloaded from the bootstrap 4.5 
+2) all.min.css is downloaded from the Fontawesome.com for using of various fonts and the icons in the website
+3) Here owl.min.css, owl.theme.min.css and testslider.css are taken from the Carousel Plugin
