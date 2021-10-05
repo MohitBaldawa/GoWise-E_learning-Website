@@ -51,7 +51,7 @@
         // Here if the user session is logged in i.e. True then 
         session_start();
         if (isset($_SESSION['is_login'])) { // only my profile and logout option will show on navbar
-          echo '<li class="nav-item custom-nav-item"><a href="student/studentProfile.php" class="nav-link">My Profile</a></li>
+          echo '<li class="nav-item custom-nav-item"><a href="Student/studentProfile.php" class="nav-link">My Profile</a></li>
                       <li class="nav-item custom-nav-item"><a href="logout.php" class="nav-link">Logout</a></li>';
         } else { // Otherwise if not logged in then Login and signup will show on navbar
           echo '<li class="nav-item custom-nav-item"><a href="#login" class="nav-link" data-toggle="modal" data-target="#stuLoginModalCenter">Login</a></li> 
