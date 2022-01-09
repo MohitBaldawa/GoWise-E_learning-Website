@@ -7,10 +7,10 @@
  //$db_name = "lms_db";
 
 // Remote Database Connection
- $db_host = "remotemysql.com";
- $db_user = "3zLkwr6ptq";
- $db_password = "OypWImdkpx";
- $db_name = "3zLkwr6ptq";
+ $db_host = "sql6.freemysqlhosting.net";
+ $db_user = "sql6464366";
+ $db_password = "5y1sn4jmlc";
+ $db_name = "sql6464366";
 
 // Create Connection
 $conn = new mysqli($db_host, $db_user, $db_password, $db_name);
